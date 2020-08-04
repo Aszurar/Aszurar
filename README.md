@@ -9,7 +9,7 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
+  <a href="#interrobang-motivo">Social</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
 </h3>
 
@@ -23,9 +23,9 @@ ___
 
 🎓 Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
 
-## :interrobang: Motivo
+## :interrobang: Social
 
-Apresentação de um perfil interativo no github
+- :e-mail: Fale comigo ; **[lms.souza39@gmail.com](mailto://lms.souza39@gmail.com)**
 
 ## :rocket: Tecnologias Utilizadas
 
