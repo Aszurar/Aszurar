@@ -1,6 +1,6 @@
 <h2 align="center">Perfil</h2>
 
-🎓 **[Portfolio](https://lucaslima.rj.r.appspot.com/)**
+🎓 **[Portfolio - Site Pessoal](https://lucaslima.rj.r.appspot.com/)**
 ___
 
 <p align="center"; border-radius=50%>
