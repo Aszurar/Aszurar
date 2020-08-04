@@ -1,6 +1,9 @@
 <h2 align="center">Perfil</h2>
 
 🎓 **[Portfolio - Site Pessoal](https://lucaslima.rj.r.appspot.com/)**
+
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
 ___
 
 <p align="center"; border-radius=50%>
