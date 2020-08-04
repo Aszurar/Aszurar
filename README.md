@@ -35,6 +35,8 @@ ___
 
 [![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
 
+[![Facebook Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo!
+
 
 <a href="https://www.instagram.com/lucazura/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a>  |  <a href="https://www.facebook.com/lucas.delima.549436"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>   |  <a href="https://www.linkedin.com/in/lucas-de-lima-azsura//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
 
