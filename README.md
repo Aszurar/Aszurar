@@ -5,8 +5,6 @@
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS, javascript e o básico de React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.
  
- [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
-
 ___
 
 <p align="center"; border-radius=50%>
@@ -35,7 +33,8 @@ ___
 
 ## :interrobang: Social
 
-- :e-mail: Fale comigo ; **[lms.souza39@gmail.com](mailto://lms.souza39@gmail.com)**
+ **Fale comigo:** [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com)
+ Fale comigo 
 
 <a href="https://www.instagram.com/lucazura/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a>  |  <a href="https://www.facebook.com/lucas.delima.549436"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>   |  <a href="https://www.linkedin.com/in/lucas-de-lima-azsura//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
 
