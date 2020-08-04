@@ -2,7 +2,7 @@
 
 ___
 
-<p align="center" border-radius=50%>
+<p align="center"; border-radius=50%>
   <img src="https://avatars0.githubusercontent.com/u/28929274?s=200&v=4" width="300" heigth="300">
 </p>
 
