@@ -18,12 +18,11 @@ ___
 
 
 ## :information_source: Sobre
-
-Perfil Github
+  Olá meu nome é Lucas de Lima Martins de Souza, sou estudante de Engenharia da Computação e do Bootcamp LaunchBase da Rocketseat inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
 
 ## :interrobang: Motivo
 
-Apresentação do perfil no github
+Apresentação de um perfil interativo no github
 
 
 ## :seedling: Requisitos Mínimos
@@ -32,6 +31,6 @@ Apresentação do perfil no github
 
 ## :rocket: Tecnologias Utilizadas 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+Esse Readme foi desenvolvido utilizando porbase o  Readme Maker: http://readme-maker.herokuapp.com/
 
 
