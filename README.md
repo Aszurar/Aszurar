@@ -4,6 +4,9 @@
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS, javascript e o básico de React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+
 ___
 
 <p align="center"; border-radius=50%>
