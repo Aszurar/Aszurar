@@ -10,11 +10,12 @@ ___
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Social</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
 </h3>
 
 ___
 
+![Brenno github stats](https://github-readme-stats.vercel.app/api?username=Aszurar&show_icons=true&hide_border=true)
 
 ## :information_source: Sobre
   Olá meu nome é Lucas de Lima Martins de Souza, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
