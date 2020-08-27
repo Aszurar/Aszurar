@@ -18,6 +18,10 @@ ___
 ## Github Stats 📊
 ![Aszurar github stats](https://github-readme-stats.vercel.app/api?username=Aszurar&show_icons=true&hide_border=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## :information_source: Sobre
   Olá meu nome é Lucas de Lima Martins de Souza, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
 
