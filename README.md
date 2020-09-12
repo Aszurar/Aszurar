@@ -1,7 +1,5 @@
 <h2 align="center">Perfil</h2>
 
-🎓 **[Portfolio - Site Pessoal](https://lucaslima.rj.r.appspot.com/)**
-
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS, javascript e o básico de React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.
  
@@ -24,8 +22,6 @@ ___
 
 ## :information_source: Sobre
   Olá meu nome é Lucas de Lima Martins de Souza, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
-
-🎓 **[Portfolio](https://lucaslima.rj.r.appspot.com/)**
 
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
 
