@@ -27,6 +27,8 @@ ___
 
 🎓 Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
 
+🎓 Estudante do **Ignite - React Native & ReactJS - [Rocketseat](https://rocketseat.com.br/ignite)**
+
 ## :interrobang: Social
 
 [![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
