@@ -1,7 +1,7 @@
 <h2 align="center">Perfil</h2>
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando HTML, CSS, javascript e o básico de React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout.
+ <br/> :purple_heart: &nbsp; Desenvolvedor Full Stack | Synchro - Solução Fiscal | Icods Tech
+ <br/> :blush: &nbsp; Estudando React-Native e ReactJS.
  
 ___
 
