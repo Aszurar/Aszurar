@@ -7,8 +7,8 @@ ___
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
-  <a href="#interrobang-motivo">Social</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;
+ <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp; 
+ <a href="#interrobang-motivo">Social</a>&nbsp;|&nbsp;
 </h3>
 
 ___
@@ -29,16 +29,6 @@ ___
 
 🎓 Estudante do **Ignite - React Native & ReactJS - [Rocketseat](https://rocketseat.com.br/ignite)**
 
-## :interrobang: Social
-
-[![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
-
-
-<a href="https://www.instagram.com/lucazura/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a>        <a href="https://www.facebook.com/lucas.delima.549436"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>        <a href="https://www.linkedin.com/in/lucas-de-lima-azsura//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
- 
-⭐️ from [@Aszurar](https://github.com/Aszurar)
 
 ## :rocket: Tecnologias Utilizadas
 
@@ -50,4 +40,15 @@ ___
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Aszurar)](https://github.com/Aszurar)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Aszurar)](https://github.com/Aszurar)
 
 
+
+## :interrobang: Social
+
+[![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
+
+
+<a href="https://www.instagram.com/lucazura/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a>        <a href="https://www.facebook.com/lucas.delima.549436"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>        <a href="https://www.linkedin.com/in/lucas-de-lima-azsura//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
+ 
+⭐️ from [@Aszurar](https://github.com/Aszurar)
 
