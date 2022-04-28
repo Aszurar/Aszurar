@@ -41,13 +41,13 @@ ___
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Aszurar)](https://github.com/Aszurar)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  
- ## 📚 Principais projetos
+ ## 📚 Principais projetos 
  <p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx)](https://github.com/anuraghazra/github-readme-stats)
-
-   </p>
+  <a href="https://github.com/Aszurar/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
+  </a>
+ </p>
 
 
 
