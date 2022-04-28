@@ -39,7 +39,7 @@ ___
  
  ## 📚 Principais projetos
   
-  [![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=flat&logo=react-native&link=https://github.com/Aszurar)](https://github.com/Aszurar)
+  [![ReactNative](https://img.shields.io/badge/-ReactNative-white?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <p align="center">
   <a href="https://github.com/Aszurar/github-readme-stats">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
