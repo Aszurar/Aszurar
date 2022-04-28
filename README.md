@@ -14,7 +14,7 @@ ___
 
 ## 📊 Github Stats 
 <p align="center">
-<a href="https://github.com/Aszurar/github-readme-stats">
+<a href="https://github.com/Aszurar?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
  </a>
@@ -43,10 +43,12 @@ ___
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <p align="center">
-  <a href="https://github.com/Aszurar/github-readme-stats">
+  <a href="https://github.com/Aszurar/gofinances">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
-  </a>
+     </a>
+   <a href="https://github.com/Aszurar/Rentxs">
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
+   </a>
  </p>
 
 
