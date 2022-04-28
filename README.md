@@ -18,7 +18,7 @@ ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
  
- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aszurar&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats" />
+ <img margin-top="8em" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aszurar&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats" />
  </a>
 </p>
 
@@ -46,8 +46,8 @@ ___
  - React Native
  <p align="center">
   <a href="https://github.com/Aszurar/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
   </a>
  </p>
 
