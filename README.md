@@ -12,7 +12,7 @@ ___
 
 ___
 
-## Github Stats 📊
+## 📊 Github Stats 
 <p align="center">
 <a href="https://github.com/Aszurar/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
@@ -24,9 +24,7 @@ ___
   Olá meu nome é Lucas de Lima Martins de Souza, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
 
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
-
 🎓 Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
-
 🎓 Estudante do **Ignite - React Native & ReactJS - [Rocketseat](https://rocketseat.com.br/ignite)**
 
 
@@ -41,7 +39,7 @@ ___
  
  ## 📚 Principais projetos
   
- - React Native
+  [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <p align="center">
   <a href="https://github.com/Aszurar/github-readme-stats">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
