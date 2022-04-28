@@ -18,6 +18,8 @@ ___
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
 </a>
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aszurar)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ## :information_source: Sobre
@@ -41,7 +43,7 @@ ___
  
  ## 📚 Principais projetos
  <p align="center">
-  [![test](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&&repo=Rentx)](https://github.com/anuraghazra/github-readme-stats)
  </p>
