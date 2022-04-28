@@ -46,7 +46,7 @@ ___
   <a href="https://github.com/Aszurar/gofinances">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
      </a>
-   <a href="https://github.com/Aszurar/Rentxs">
+   <a href="https://github.com/Aszurar/Rentx">
    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
    </a>
  </p>
