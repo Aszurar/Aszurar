@@ -15,8 +15,8 @@ ___
 ## Github Stats 📊
 <p align="center">
 <a href="https://github.com/Aszurar/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=midnight-purple&layout=compact&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
 </a>
 </p>
 
@@ -41,8 +41,9 @@ ___
  
  ## 📚 Principais projetos
  <p align="center">
-  [![Gofinances](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&repo=gofinances)](https://github.com/Aszurar/gofinances)
-  [![Rentx](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&repo=Rentx)](https://github.com/Aszurar/Rentx)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&repo=gofinances)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&repo=Rentx)](https://github.com/anuraghazra/github-readme-stats)
  </p>
 
 
