@@ -24,7 +24,9 @@ ___
   Olá meu nome é Lucas de Lima Martins de Souza, sou estudante inciante em front-end e back-end, apredendo tecnologias como Javascript, React, HTML e CSS.
 
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
+ 
 🎓 Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
+
 🎓 Estudante do **Ignite - React Native & ReactJS - [Rocketseat](https://rocketseat.com.br/ignite)**
 
 
