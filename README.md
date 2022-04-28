@@ -13,8 +13,12 @@ ___
 ___
 
 ## Github Stats 📊
-![Aszurar github stats](https://github-readme-stats.vercel.app/api?username=Aszurar&show_icons=true&hide_border=true)
-
+<p align="center">
+<a href="https://github.com/caiovictors/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aszurar&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&theme=radical&layout=compact&langs_count=10" />
+</a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszurar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
