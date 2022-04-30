@@ -27,7 +27,7 @@ ___
  
 🎓 Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
 
-🎓 Estudante do **Ignite - React Native & ReactJS - [Rocketseat](https://rocketseat.com.br/ignite)**
+🎓 Estudante do **Ignite - React Native, ReactJS & Nodejs - [Rocketseat](https://rocketseat.com.br/ignite)**
 
 
 ## :rocket: Tecnologias Utilizadas
