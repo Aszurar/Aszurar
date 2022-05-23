@@ -23,7 +23,7 @@ ___
 ## :information_source: Sobre
   Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. Já atuo na área como desenvolvedor full stack em react e react-native mas ainda de modo iniciante, mas estou em busca de melhores oportunidades também principalmente com o desenvolvimento mobile com React Native, é a stack que mais domino atualmente.
   
-  Tenho experiência em HTML, CSS e C e muita vontade de aprender outras tecnologias principalmente voltadas para o desenvolvimento web como flutter, swift ui e também outras como Redux, Nextjs, graphQL...
+  **Tenho experiência em HTML, CSS e C** e muita vontade de aprender outras tecnologias principalmente voltadas para o desenvolvimento web como **flutter, swift ui** e também outras **como Redux, Nextjs, graphQL** ...
 
 🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
  
