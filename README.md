@@ -45,7 +45,7 @@ ___
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <p align="center">
-  <a href="https://github.com/Aszurar/gofinances">
+  <a href="https://github.com/Aszurar/pokedev">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=gofinances" />
      </a>
    <a href="https://github.com/Aszurar/Rentx">
