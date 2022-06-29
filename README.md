@@ -44,21 +44,21 @@ ___
  ## 📚 Principais projetos
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
- <p align="center">
+ <div align="center">
   <a href="https://github.com/Aszurar/pokedev">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=pokedev" />
      </a>
    <a href="https://github.com/Aszurar/Rentx">
    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
    </a>
- </p>
+ </div>
  
    [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node&link=https://github.com/Aszurar)](https://github.com/Aszurar)
- <p align="center">
+ <div align="center">
   <a href="https://github.com/Aszurar/nodejs-concepts-challange-gostack">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=nodejs-concepts-challange-gostack" />
   </a>
- </p>
+ </div>
 
 
 
