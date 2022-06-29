@@ -52,6 +52,13 @@ ___
    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=Rentx" />
    </a>
  </p>
+ 
+   [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node&link=https://github.com/Aszurar)](https://github.com/Aszurar)
+ <p align="center">
+  <a href="https://github.com/Aszurar/nodejs-concepts-challange-gostack">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=pokedev" />
+  </a>
+ </p>
 
 
 
