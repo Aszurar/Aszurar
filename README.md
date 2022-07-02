@@ -26,9 +26,9 @@ ___
   **Tenho experiência em HTML, CSS, JavaScript, TypeScript, React Native e React e muita vontade de aprender outras tecnologias principalmente voltadas para o desenvolvimento web como **flutter, swift ui** e também outras **como Redux, Nextjs, graphQL** ...
   
  ✨Experiência:
- 1. [Icods Tech](https://www.icods.com.br/) | Desenvolvedor Full Stack front-end web com ReactJS e mobile com React-Native e back-end com NodeJS ambos usando TypeScript. - Trabalho de meio período.
- 2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java. - Estágio.
- 3. [NanoIncub](https://nanoincub.com.br/) | Desenvolvedor mobile com React Native e TypeScript. - Desenvolvedor Junior.
+ 1. [Icods Tech](https://www.icods.com.br/) | Desenvolvedor Full Stack front-end web com ReactJS e mobile com React-Native e back-end com NodeJS ambos usando TypeScript. - Trabalho de meio período - 1 ano e 5 meses.
+ 2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java. - Estágio - 11 meses.
+ 3. [NanoIncub](https://nanoincub.com.br/) | Desenvolvedor mobile com React Native e TypeScript. - Desenvolvedor Junior - 3 meses.
 
 
 🎓aEstudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
