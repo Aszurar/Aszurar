@@ -1,6 +1,6 @@
 <h2 align="center">Perfil</h2>
 
- <br/> :purple_heart: &nbsp; Desenvolvedor Full Stack | Synchro - Solução Fiscal | Icods Tech
+ <br/> :purple_heart: &nbsp; Desenvolvedor Full Stack | [NanoIncub](https://nanoincub.com.br/) | [Icods Tech](https://www.icods.com.br/)
  <br/> 📚 &nbsp; Estudando React-Native e ReactJS.
  
 ___
@@ -23,9 +23,15 @@ ___
 ## :information_source: Sobre
   Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. Já atuo na área como desenvolvedor full stack em react e react-native mas ainda de modo iniciante, mas estou em busca de melhores oportunidades também principalmente com o desenvolvimento mobile com React Native, é a stack que mais domino atualmente.
   
-  **Tenho experiência em HTML, CSS e C** e muita vontade de aprender outras tecnologias principalmente voltadas para o desenvolvimento web como **flutter, swift ui** e também outras **como Redux, Nextjs, graphQL** ...
+  **Tenho experiência em HTML, CSS, JavaScript, TypeScript, React Native e React e muita vontade de aprender outras tecnologias principalmente voltadas para o desenvolvimento web como **flutter, swift ui** e também outras **como Redux, Nextjs, graphQL** ...
+  
+ ✨Experiência:
+ 1. Icods Tech | Desenvolvedor Front End web com React e mobile com React-Native ambos usando TypeScript. - Trabalho de meio período.
+ 2. Synchro - Solução Fiscal | Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java. - Estágio.
+ 3. NanoIncub | Desenvolvedor mobile com React Native e TypeScript. - Desenvolvedor Junior.
 
-🎓 Estudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
+
+🎓aEstudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
  
 🎓 Fui Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
 
