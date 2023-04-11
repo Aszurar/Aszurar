@@ -51,18 +51,19 @@ ___
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div align="center"  style="display:flex">
- <div align="center">
+ <div align="center" style="flex-basis:50%">
   <a href="https://github.com/Aszurar/imHere">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=imHere" />
    </a>
  </div>
  
- <div align="center">
+ <div align="center" style="flex-basis:50%">
   <a href="https://github.com/Aszurar/myskills">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=myskills" />
    </a>
  </div>
-  </div>
+ </div>
+
    [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div align="center">
   <a href="https://github.com/Aszurar/nodejs-concepts-challange-gostack">
