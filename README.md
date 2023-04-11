@@ -51,23 +51,23 @@ ___
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <p align="center">
- <div align="center" style="flex-basis:40%">
+
   <a href="https://github.com/Aszurar/imHere">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=imHere" />
    </a>
- </div>
+
  
- <div align="center" style="flex-basis:40%">
+ 
   <a href="https://github.com/Aszurar/myskills">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=myskills" />
    </a>
- </div>
+
  </p>
 
    [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div align="center">
   <a href="https://github.com/Aszurar/nodejs-concepts-challange-gostack">
-    <img height="140em" src="https://github-readme-stats.vercel-sigma-five.app/api/pin/?username=Aszurar&theme=highcontrast&repo=nodejs-concepts-challange-gostack" />
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=nodejs-concepts-challange-gostack" />
   </a>
  </p>
 
