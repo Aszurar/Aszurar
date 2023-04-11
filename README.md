@@ -62,7 +62,7 @@ ___
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=myskills" />
    </a>
  </div>
- </div>
+ </p>
 
    [![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div align="center">
