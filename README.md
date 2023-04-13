@@ -1,6 +1,6 @@
 <h2 align="center">Perfil</h2>
 
- <br/> :purple_heart: &nbsp; Desenvolvedor Full Stack | [NanoIncub](https://nanoincub.com.br/) | [Icods Tech](https://www.icods.com.br/)
+ <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
  
 ___
@@ -28,8 +28,8 @@ ___
  ✨Experiência:
  1. [Icods Tech](https://www.icods.com.br/) | Desenvolvedor Full Stack front-end web com ReactJS e mobile com React-Native e back-end com NodeJS ambos usando TypeScript. - Trabalho de meio período - 1 ano e 5 meses.
  2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java. - Estágio - 11 meses.
- 3. [NanoIncub](https://nanoincub.com.br/) | Desenvolvedor mobile com React Native e TypeScript. - Desenvolvedor Junior - 3 meses.
-
+ 3. [NanoIncub](https://nanoincub.com.br/) | Desenvolvedor mobile com React Native e TypeScript. - Desenvolvedor Junior - 8 meses.
+ 4. (atual) [Minsait]([https://nanoincub.com.br/](https://www.minsait.com/pt)) | Desenvolvedor Front End: React & React Native. - Analista de Software Pleno - 4 meses.
 
 🎓aEstudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
  
