@@ -67,7 +67,7 @@ ___
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=nodejs-concepts-challange-gostack" />
   </a>
  </p>
-
+ </div>
 
 
 ## :interrobang: Social
