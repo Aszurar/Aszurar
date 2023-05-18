@@ -22,12 +22,12 @@ ___
 
 ## :information_source: Sobre
 
-  <p> Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. </p>
-  Já atuai como desenvolvedor full stack como java e React, mas hoje o meu domínio vem do React Native, com certeza é a tecnologia que me dediquei e me aprofundei. 
-  Dessa forma também tenho conhecimento em React Web já estudei bastante e trabalhei com ela, mas ainda ainda preciso melhorar muito principalmente com o aprendizado de NextJS. 
-  Pretando dominar React Web e Node, e tenho muita vontade de aprender Flutter para o desenvolvimento mobile, comecei a estudar aos poucos.
+ <p> Olá, Lucas aqui, venho estudando bastante tecnologias como <b>React, React Native, Nodejs</b> e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. </p>
+ <p> Já atuai como desenvolvedor full stack como java e React, mas hoje o meu domínio vem do React Native, com certeza é a tecnologia que me dediquei e me aprofundei. </p> 
+ <p> Dessa forma também tenho conhecimento em React Web já estudei bastante e trabalhei com ela, mas ainda ainda preciso melhorar muito principalmente com o aprendizado de NextJS. </p> 
+ <p> Pretando dominar React Web e Node, e tenho muita vontade de aprender Flutter para o desenvolvimento mobile, comecei a estudar aos poucos. </p>
   
-  Tenho experiência em HTML, CSS, JavaScript, TypeScript, React Native e React e muita vontade de aprender outras tecnologias como **flutter, swift ui, Redux, Nextjs, graphQL, dentre outras...**
+ <p> Tenho experiência em <b>HTML, CSS, JavaScript, TypeScript, React Native e React</b> e como falei antes, venho estudando <b>Flutter e React</b></p>
   
  ✨Experiência:
  1. [Icods Tech](https://www.icods.com.br/) | **Desenvolvedor Full Stack front-end web com ReactJS e mobile com React-Native e back-end com NodeJS ambos usando TypeScript.** - Trabalho de meio período - 1 ano e 5 meses.
