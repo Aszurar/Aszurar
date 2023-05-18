@@ -21,7 +21,8 @@ ___
 </p>
 
 ## :information_source: Sobre
-  Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. 
+
+  <p> Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. </p>
   Já atuai como desenvolvedor full stack como java e React, mas hoje o meu domínio vem do React Native, com certeza é a tecnologia que me dediquei e me aprofundei. 
   Dessa forma também tenho conhecimento em React Web já estudei bastante e trabalhei com ela, mas ainda ainda preciso melhorar muito principalmente com o aprendizado de NextJS. 
   Pretando dominar React Web e Node, e tenho muita vontade de aprender Flutter para o desenvolvimento mobile, comecei a estudar aos poucos.
