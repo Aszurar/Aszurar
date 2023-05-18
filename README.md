@@ -21,8 +21,10 @@ ___
 </p>
 
 ## :information_source: Sobre
-  Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. Já atuai como desenvolvedor full stack como java e React, mas hoje o meu domínio vem do React Native, com certeza é a tecnologia que me dediquei e me aprofundei mais. Dessa forma também tenho conhecimento em React Web já estudei bastante e trabalhei com ela, mas ainda ainda preciso melhorar muito principalmente com o aprendizado de NextJS. 
-   Pretando dominar React Web e Node no ambiente de TypeScript e Javascript, mas tenho muita vontade de aprender Flutter para o desenvolvimento mobile e comecei a estudar aos poucos.
+  Olá, Lucas aqui, venho estudando bastante tecnologias como **React, React Native, Nodejs** e linguagens como javascript e superset typescript assim como várias bibliotecas dessas tecnologias para auxilar no desenvolvimento. 
+  Já atuai como desenvolvedor full stack como java e React, mas hoje o meu domínio vem do React Native, com certeza é a tecnologia que me dediquei e me aprofundei. 
+  Dessa forma também tenho conhecimento em React Web já estudei bastante e trabalhei com ela, mas ainda ainda preciso melhorar muito principalmente com o aprendizado de NextJS. 
+  Pretando dominar React Web e Node, e tenho muita vontade de aprender Flutter para o desenvolvimento mobile, comecei a estudar aos poucos.
   
   Tenho experiência em HTML, CSS, JavaScript, TypeScript, React Native e React e muita vontade de aprender outras tecnologias como **flutter, swift ui, Redux, Nextjs, graphQL, dentre outras...**
   
@@ -30,7 +32,7 @@ ___
  1. [Icods Tech](https://www.icods.com.br/) | **Desenvolvedor Full Stack front-end web com ReactJS e mobile com React-Native e back-end com NodeJS ambos usando TypeScript.** - Trabalho de meio período - 1 ano e 5 meses.
  2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | **Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java**. - Estágio - 11 meses.
  3. [NanoIncub](https://nanoincub.com.br/) | **Desenvolvedor mobile com React Native e TypeScript.** - Desenvolvedor Junior - 8 meses.
- 4. _(atual)_ [Minsait](https://www.minsait.com/pt)| **Desenvolvedor Front End: React & React Native.** - Analista de Software Pleno - 4 meses.
+ 4. _(atual)_ [Minsait](https://www.minsait.com/pt)| **Desenvolvedor Front End: React & React Native.** - Analista de Software Pleno - 5 meses.
 
 🎓aEstudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
  
