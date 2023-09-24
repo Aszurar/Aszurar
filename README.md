@@ -51,7 +51,7 @@ ___
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Aszurar)](https://github.com/Aszurar)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Aszurar)](https://github.com/Aszurar)  [![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat&logo=gitlab&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  
- ## 📚 Principais projetos
+ ## 📚 Principais projetoshttps://github.com/Aszurar/igniteFeed
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div display="flex" align="center">
@@ -61,6 +61,13 @@ ___
    
    <a href="https://github.com/Aszurar/imHere">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=imHere" />
+   </a>
+ </div>
+
+  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://react.dev)](https://react.dev/)
+ <div align="center">
+   <a href="https://github.com/Aszurar/igniteFeed">
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=igniteFeed" />
    </a>
  </div>
 
