@@ -14,8 +14,9 @@ ___
 <h3 align="center">
  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp; 
- <a href="#-📚-Principais projetos">Projetos</a>&nbsp;|&nbsp; 
- <a href="#interrobang-motivo">Vamos conversar</a>
+ <a href="#bar_chart-Github-Stats">Estatísticas</a>&nbsp;|&nbsp; 
+ <a href="#books-Principais-projetos">Projetos</a>&nbsp;|&nbsp; 
+ <a href="#speech_balloon-Vamos-conversar">Vamos conversar</a>
 
 ___
 
@@ -64,7 +65,7 @@ ___
 
 ___
 
-## 📚 Principais projetos
+## :books: Principais projetos
   
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=flat&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
  <div display="flex" align="center">
@@ -90,7 +91,7 @@ ___
 
 
 
-## :interrobang: Vamos conversar
+## :speech_balloon: Vamos conversar
 
 - Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
