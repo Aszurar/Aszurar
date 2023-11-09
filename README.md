@@ -1,10 +1,11 @@
-<h2 align="center">Perfil</h2>
+<h2 align="center">Bom dia!</h2>
+
 <div>
  <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
 </div>
 
- <div>
+ <div align="center">
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  </div>
  
@@ -100,7 +101,6 @@ ___
 
 - Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 
-[![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
 
 
 <div align="center">
@@ -108,7 +108,9 @@ ___
 </div>
 
 <div align="center">
+ 
 ![Snake animation](https://github.com/Aszurar/Aszurar/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
