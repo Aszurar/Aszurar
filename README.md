@@ -2,6 +2,7 @@
 
  <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
+ <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  
 ___
 
@@ -56,7 +57,6 @@ ___
 <a href="https://github.com/Aszurar?tab=repositories">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  </a>
 </p>
 
