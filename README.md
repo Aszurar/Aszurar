@@ -1,8 +1,9 @@
 <h2 align="center">Perfil</h2>
-
+<div>
  <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
- 
+</div>
+
  <div display="flex" align="center">
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  </div>
@@ -101,16 +102,13 @@ ___
 [![Gmail Badge](https://img.shields.io/badge/-lms.souza39@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms.souza39@gmail.com)](mailto:lms.souza39@gmail.com) Fale comigo! 
 
 
-<a href="https://www.instagram.com/lucazura/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="32px" height="32px"></a>        <a href="https://www.facebook.com/lucas.delima.549436"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a>        <a href="https://www.linkedin.com/in/lucas-de-lima-azsura//"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> 
-
 <div align="center">
-
 <a href="https://github.com/Aszurar"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  <a href="https://www.instagram.com/lucazura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://ricardozamboni.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-7289DA?style=for-the-badge&logo=googlechrome&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lucas-de-lima-azsura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:lms.souza39@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-#
- 
+<div align="center">
 ![Snake animation](https://github.com/Aszurar/Aszurar/blob/output/github-contribution-grid-snake.svg)
+</div>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
  
