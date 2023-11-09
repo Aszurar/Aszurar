@@ -14,7 +14,7 @@ ___
 <h3 align="center">
  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp; 
- <a href="#📊-Github-Stats">Estatística</a>&nbsp;|&nbsp; 
+ <a href="#bar_chart-Github-Stats">Estatística</a>&nbsp;|&nbsp; 
  <a href="#books-Principais-projetos">Projetos</a>&nbsp;|&nbsp; 
  <a href="#speech_balloon-Vamos-conversar">Vamos conversar</a>
 
@@ -53,7 +53,7 @@ ___
 ___
 
 
-## 📊 Github Stats 
+## :bar_chart: Github Stats 
 <p align="center">
 <a href="https://github.com/Aszurar?tab=repositories">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true" />
