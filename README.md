@@ -34,8 +34,6 @@ ___
  2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | **Desenvolvedor Full Stack com ReactJS por meio de JavaScript e back-end em Java**. - Estágio - 11 meses.
  3. [NanoIncub](https://nanoincub.com.br/) | **Desenvolvedor mobile com React Native e TypeScript.** - Desenvolvedor Junior - 8 meses.
  4. _(atual)_ [Minsait](https://www.minsait.com/pt)| **Desenvolvedor Front End: React & React Native.** - Analista de Software Pleno - 5 meses.
-
-🎓aEstudante de **Engenharia da Computação - [Universidade Federal da Paraíba](https://www.ufpb.br/)**
  
 🎓 Fui Estudante do **LaunchBase - [Rocketseat](https://rocketseat.com.br/launchbase)**
 
