@@ -107,8 +107,10 @@ ___
 </div>
 
 
- 
+ ![Uploading github-user-contribution.svg…]()
+
    ![Snake animation](https://github.com/Aszurar/blob/output/github-contribution-grid-snake.svg)
+   ![snake animation](https://github.com/Aszurar/Aszurar/blob/output/github-contribution-grid-snake2.svg)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
  
