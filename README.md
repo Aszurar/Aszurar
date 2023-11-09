@@ -14,7 +14,7 @@ ___
 <h3 align="center">
  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp; 
- <a href="#-📚-Principais projetos">Projetos&nbsp;|&nbsp; 
+ <a href="#-📚-Principais projetos">Projetos</a>&nbsp;|&nbsp; 
  <a href="#interrobang-motivo">Vamos conversar</a>
 
 ___
