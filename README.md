@@ -2,12 +2,14 @@
 
  <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
- <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  
+ <div display="flex" align="center">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
+ </div>
 ___
 
 <h3 align="center">
-  <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
+ <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp; 
  <a href="#-📚-Principais projetos">Projetos&nbsp;|&nbsp; 
  <a href="#interrobang-motivo">Vamos conversar</a>
@@ -108,7 +110,7 @@ ___
 
 #
  
-![Snake animation](https://github.com/Ricmaloy/Ricmaloy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aszurar/Aszurar/blob/output/github-contribution-grid-snake.svg)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aszurar)
  
