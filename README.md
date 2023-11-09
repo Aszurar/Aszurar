@@ -4,9 +4,10 @@
  <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
 </div>
 
- <div display="flex" align="center">
+ <div>
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
  </div>
+ 
 ___
 
 <h3 align="center">
