@@ -81,8 +81,8 @@ ___
    <a href="https://github.com/Aszurar/tododark">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=tododark" />
    </a>
-   <a href="https://github.com/Aszurar/igniteFeed">
-    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=igniteFeed" />
+   <a href="https://github.com/Aszurar/tailwindcss">
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=tailwindcss" />
    </a>
  </div>
    </div>
