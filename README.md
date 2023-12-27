@@ -78,11 +78,11 @@ ___
 
   [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://react.dev)](https://react.dev/)
  <div align="center">
+   <a href="https://github.com/Aszurar/to.do">
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=to.do" />
+   </a>
    <a href="https://github.com/Aszurar/tododark">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=tododark" />
-   </a>
-   <a href="https://github.com/Aszurar/tailwindcss">
-    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=tailwindcss" />
    </a>
  </div>
    </div>
