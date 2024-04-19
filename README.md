@@ -55,11 +55,11 @@ ___
 <a href="https://github.com/Aszurar?tab=repositories">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aszurar&theme=highcontrast&show_icons=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aszurar&theme=highcontrast&layout=compact&langs_count=10" />
- </a>
+</a>
 </div>
 
 <div align="center">
- <img height="180em" width="360px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aszurar&theme=highcontrast" alt="stats"  /> <img height="165em" width="480px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
+ <img height="180em" width="350px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aszurar&theme=highcontrast" alt="stats" /> <img height="165em" width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
 </div>
 
 ___
