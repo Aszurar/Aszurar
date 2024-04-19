@@ -33,7 +33,7 @@ ___
  
 🎓 Estudante da - **[Rocketseat](https://rocketseat.com.br/launchbase)**
 
-🎓 Graduando em **Análise e desenvolveimento de Sistemas**
+🎓 Graduando em **Análise e desenvolvimento de Sistemas**
 
 ## :rocket: Tecnologias Utilizadas
   ###  📋 Linguagens
