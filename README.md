@@ -1,8 +1,8 @@
 <h2 align="center">Bom dia!</h2>
 
 
- <br/> :purple_heart: &nbsp; Desenvolvedor Front-end: Reactjs & React Native | [Minsait](https://www.minsait.com/pt)
- <br/> 📚 &nbsp; Estudando React-Native, ReactJS e Node.
+ <br/> :purple_heart: &nbsp; Desenvolvedor web & mobile: Reactjs| React Native | TypeScript | JavaScript | [Minsait](https://www.minsait.com/pt)
+ <br/> 📚 &nbsp; Estudando React, C#, & .NET.
  <br/>
 
 
