@@ -1,7 +1,7 @@
 <h2 align="center">Bom dia!</h2>
 
 
- <br/> :purple_heart: &nbsp; Desenvolvedor web & mobile: Reactjs| React Native | TypeScript | JavaScript | [Minsait](https://www.minsait.com/pt)
+ <br/> :purple_heart: &nbsp; Desenvolvedor web & mobile: Reactjs| React Native | TypeScript | JavaScript na [Minsait](https://www.minsait.com/pt)
  <br/> 📚 &nbsp; Estudando React, C#, & .NET.
  <br/>
 
