@@ -23,13 +23,8 @@ ___
  <p> Olá, meu nome é Lucas de Lima, sou desenvolvedor web e mobile à mais de 2 anos e já atuei como desenvolvedor full stack no ambiente web e mobile, e focado somente no front-end web e front-end mobile.  </p>
  <p> Atuo com React + TypeScript desde 2020, me especializei no desenvolvimento mobile com React Native e aos poucos também fui trabalhando com React para web durante esse período. </p> 
  <p> Já desenvolvi um pouco com Java + Spring boot e NodeJS no back-end no início da carreira, mas nunca me aprofundei muito, mas é algo quie pretendo estudar.</p> 
- <p> Hoje meu domíneo com certeza é no front-end com React e React Native, mas venho estudando aos poucos back-end com Python e NodeJS. </p>
+ <p> Hoje meu domíneo com certeza é no front-end com React e React Native, mas venho estudando aos poucos back-end como C# e .Net . </p>
   
- ✨Experiência:
- 1. [Icods Tech](https://www.icods.com.br/) | **Desenvolvedor Full Stack usando Typescript, ReactJS, React-Native no front-end e NodeJS no back-end.** - Trabalho de meio período - 1 ano e 5 meses.
- 2. [Synchro - Solução Fiscal](https://www.synchro.com.br/) | **Desenvolvedor Full Stack com ReactJS e JavaScript no front-end e back-end em Java + Sprint Boot**. - Estágio - 11 meses.
- 3. [NanoIncub](https://nanoincub.com.br/) | **Desenvolvedor mobile com React Native e TypeScript.** - Desenvolvedor Junior - 8 meses.
- 4. _(atual)_ [Minsait](https://www.minsait.com/pt)| **Desenvolvedor Front End: React, React Native e TypeScript.** - Analista de Software Pleno - 5 meses.
  
 🎓 Estudante da - **[Rocketseat](https://rocketseat.com.br/launchbase)**
 
