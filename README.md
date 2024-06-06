@@ -20,10 +20,9 @@ ___
 
 ## :information_source: Sobre
 
- <p> Olá, meu nome é Lucas de Lima, sou desenvolvedor web e mobile à mais de 2 anos e já atuei como desenvolvedor full stack no ambiente web e mobile, e focado somente no front-end web e front-end mobile.  </p>
- <p> Atuo com React + TypeScript desde 2020, me especializei no desenvolvimento mobile com React Native e aos poucos também fui trabalhando com React para web durante esse período. </p> 
- <p> Já desenvolvi um pouco com Java + Spring boot e NodeJS no back-end no início da carreira, mas nunca me aprofundei muito, mas é algo quie pretendo estudar.</p> 
- <p> Hoje meu domíneo com certeza é no front-end com React e React Native, mas venho estudando aos poucos back-end como C# e .Net . </p>
+ <p> Sou Lucas, sempre curti bastaten o desenvolvimento de software e estou no mercado à uns 3 anos atuando principalmente com React, React Native e TypeScript. Atualmente, trabalho como Analista de Software na Minsait, onde desenvolvo aplicativos móveis e sites usando as tecnlogias citadas anteriormente.  </p>
+ <p> Nos últimos meses me aventurei também na  área de freelance, também usando React e React Native, e consegui atuar em diversos projetos que agregaram ao meu conhecimento.</p> 
+ <p> Hoje corro atrás de especialização nessa área do front, mas venho estudando aos poucos back-end como C#, .Net e NodeJS. </p>
   
  
 🎓 Estudante da - **[Rocketseat](https://rocketseat.com.br/launchbase)**
