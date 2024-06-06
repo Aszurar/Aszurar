@@ -20,7 +20,7 @@ ___
 
 ## :information_source: Sobre
 
- <p> Sou Lucas, sempre curti bastaten o desenvolvimento de software e estou no mercado à uns 3 anos atuando principalmente com React, React Native e TypeScript. Atualmente, trabalho como Analista de Software na Minsait, onde desenvolvo aplicativos móveis e sites usando as tecnlogias citadas anteriormente.  </p>
+ <p> Sou Lucas, sempre curti bastaten o desenvolvimento de software e estou no mercado à uns 3 anos atuando principalmente com React, React Native e TypeScript. Atualmente, trabalho como Analista de Software na Minsait, onde desenvolvo aplicativos móveis e sites usando as tecnologias citadas anteriormente. </p>
  <p> Nos últimos meses me aventurei também na  área de freelance, também usando React e React Native, e consegui atuar em diversos projetos que agregaram ao meu conhecimento.</p> 
  <p> Hoje corro atrás de especialização nessa área do front, mas venho estudando aos poucos back-end como C#, .Net e NodeJS. </p>
   
