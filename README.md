@@ -96,7 +96,7 @@ ___
 
 ## :books: Principais projetos
 
-<div>
+<div display="flex" align="center">
   <div>
    
   [![ReactNative](https://img.shields.io/badge/-ReactNative-black?style=for-the-badge&logo=react&link=https://github.com/Aszurar)](https://github.com/Aszurar)
