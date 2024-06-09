@@ -20,7 +20,7 @@ ___
 
 ## :information_source: Sobre
 
- <p> Sou Lucas, sempre curti bastaten o desenvolvimento de software e estou no mercado à uns 3 anos atuando principalmente com React, React Native e TypeScript. Atualmente, trabalho como Analista de Software na Minsait, onde desenvolvo aplicativos móveis e sites usando as tecnologias citadas anteriormente. </p>
+ <p> Sou Lucas, sempre curti bastante o desenvolvimento de software e estou no mercado à uns 3 anos atuando principalmente com React, React Native e TypeScript. Atualmente, trabalho como Analista de Software na Minsait, onde desenvolvo aplicativos móveis e sites usando as tecnologias citadas anteriormente. </p>
  <p> Nos últimos meses me aventurei também na  área de freelance, também usando React e React Native, e consegui atuar em diversos projetos que agregaram ao meu conhecimento.</p> 
  <p> Hoje corro atrás de especialização nessa área do front, mas venho estudando aos poucos back-end como C# + .Net e NodeJS. </p>
   
@@ -30,7 +30,7 @@ ___
 🎓 Graduando em **Análise e desenvolvimento de Sistemas**
 
 ## :rocket: Tecnologias Utilizadas
-  ###  📋 Linguagens
+  ###  📋 Languages
   <div align="center">
    
    [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
@@ -68,7 +68,7 @@ ___
 
  </div>
  
- ###  🛠️ Outros
+ ###  🛠️ Others
  <div align="center">
   
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aszurar)  [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/) [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/) [![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)  
@@ -107,10 +107,6 @@ ___
  <div align="center">
    <a href="https://github.com/Aszurar/dtmoney">
     <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=dtmoney" />
-   </a>
-  
-   <a href="https://github.com/Aszurar/igniteTimer">
-    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=igniteTimer" />
    </a>
  </div>
    </div>
