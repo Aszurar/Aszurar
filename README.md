@@ -110,8 +110,8 @@ ___
   
   [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://react.dev)](https://react.dev/)
 
-   <a href="https://github.com/Aszurar/dtmoney">
-    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=dtmoney" />
+   <a href="https://github.com/Aszurar/coffeeDelivery">
+    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Aszurar&theme=highcontrast&repo=coffeeDelivery" />
    </a>
  </div>
 </div>
