@@ -49,7 +49,7 @@ ___
 ###  💄 Style Libraries
 <div align="center">
  
-  [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Native Base](https://img.shields.io/badge/NativeBase-50bfc4?style=for-the-badge&logo=react)
+  [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)](https://www.radix-ui.com/) [![shadcn/ui](https://img.shields.io/badge/shadcn-ui-161618.svg?style=for-the-badge&logo=shadcn-ui&logoColor=white)](https://ui.shadcn.com/) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Native Base](https://img.shields.io/badge/NativeBase-50bfc4?style=for-the-badge&logo=react)
 
 </div>
 
