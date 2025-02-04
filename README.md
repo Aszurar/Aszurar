@@ -89,7 +89,7 @@ ___
 </div>
 
 <div align="center">
- <img height="180em" width="350px"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aszurar&theme=highcontrast" alt="stats" /> <img height="165em" width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
+ <img height="165em" width="450px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aszurar&theme=highcontrast"/>
 </div>
 
 ___
